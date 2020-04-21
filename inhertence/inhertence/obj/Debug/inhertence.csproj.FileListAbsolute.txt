@@ -1,0 +1,13 @@
+C:\Users\Pakistan\source\repos\inhertence\inhertence\bin\Debug\inhertence.exe.config
+C:\Users\Pakistan\source\repos\inhertence\inhertence\bin\Debug\inhertence.exe
+C:\Users\Pakistan\source\repos\inhertence\inhertence\bin\Debug\inhertence.pdb
+C:\Users\Pakistan\source\repos\inhertence\inhertence\obj\Debug\inhertence.csprojResolveAssemblyReference.cache
+C:\Users\Pakistan\source\repos\inhertence\inhertence\obj\Debug\inhertence.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan\source\repos\inhertence\inhertence\obj\Debug\inhertence.exe
+C:\Users\Pakistan\source\repos\inhertence\inhertence\obj\Debug\inhertence.pdb
+G:\Study\C#\Practice Program\3#\inhertence\inhertence\bin\Debug\inhertence.exe.config
+G:\Study\C#\Practice Program\3#\inhertence\inhertence\bin\Debug\inhertence.exe
+G:\Study\C#\Practice Program\3#\inhertence\inhertence\bin\Debug\inhertence.pdb
+G:\Study\C#\Practice Program\3#\inhertence\inhertence\obj\Debug\inhertence.csproj.CoreCompileInputs.cache
+G:\Study\C#\Practice Program\3#\inhertence\inhertence\obj\Debug\inhertence.exe
+G:\Study\C#\Practice Program\3#\inhertence\inhertence\obj\Debug\inhertence.pdb

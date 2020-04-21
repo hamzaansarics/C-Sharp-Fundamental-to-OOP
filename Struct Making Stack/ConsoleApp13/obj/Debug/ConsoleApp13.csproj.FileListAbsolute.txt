@@ -1,0 +1,14 @@
+c:\users\ansari\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+c:\users\ansari\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+c:\users\ansari\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+c:\users\ansari\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojResolveAssemblyReference.cache
+c:\users\ansari\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+c:\users\ansari\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+c:\users\ansari\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+G:\Practice Program\5#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+G:\Practice Program\5#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+G:\Practice Program\5#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+G:\Practice Program\5#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojResolveAssemblyReference.cache
+G:\Practice Program\5#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+G:\Practice Program\5#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+G:\Practice Program\5#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb

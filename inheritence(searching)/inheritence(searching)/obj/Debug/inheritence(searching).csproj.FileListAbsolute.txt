@@ -1,0 +1,14 @@
+C:\Users\Pakistan\source\repos\inheritence(searching)\inheritence(searching)\bin\Debug\inheritence(searching).exe.config
+C:\Users\Pakistan\source\repos\inheritence(searching)\inheritence(searching)\bin\Debug\inheritence(searching).exe
+C:\Users\Pakistan\source\repos\inheritence(searching)\inheritence(searching)\bin\Debug\inheritence(searching).pdb
+C:\Users\Pakistan\source\repos\inheritence(searching)\inheritence(searching)\obj\Debug\inheritence(searching).csprojResolveAssemblyReference.cache
+C:\Users\Pakistan\source\repos\inheritence(searching)\inheritence(searching)\obj\Debug\inheritence(searching).csproj.CoreCompileInputs.cache
+C:\Users\Pakistan\source\repos\inheritence(searching)\inheritence(searching)\obj\Debug\inheritence(searching).exe
+C:\Users\Pakistan\source\repos\inheritence(searching)\inheritence(searching)\obj\Debug\inheritence(searching).pdb
+G:\My Coded Program(C#)\3#\inheritence(searching)\inheritence(searching)\bin\Debug\inheritence(searching).exe.config
+G:\My Coded Program(C#)\3#\inheritence(searching)\inheritence(searching)\bin\Debug\inheritence(searching).exe
+G:\My Coded Program(C#)\3#\inheritence(searching)\inheritence(searching)\bin\Debug\inheritence(searching).pdb
+G:\My Coded Program(C#)\3#\inheritence(searching)\inheritence(searching)\obj\Debug\inheritence(searching).csprojResolveAssemblyReference.cache
+G:\My Coded Program(C#)\3#\inheritence(searching)\inheritence(searching)\obj\Debug\inheritence(searching).csproj.CoreCompileInputs.cache
+G:\My Coded Program(C#)\3#\inheritence(searching)\inheritence(searching)\obj\Debug\inheritence(searching).exe
+G:\My Coded Program(C#)\3#\inheritence(searching)\inheritence(searching)\obj\Debug\inheritence(searching).pdb

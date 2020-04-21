@@ -1,0 +1,7 @@
+C:\Users\Pakistan\source\repos\simple\simple\bin\Debug\simple.exe.config
+C:\Users\Pakistan\source\repos\simple\simple\bin\Debug\simple.exe
+C:\Users\Pakistan\source\repos\simple\simple\bin\Debug\simple.pdb
+C:\Users\Pakistan\source\repos\simple\simple\obj\Debug\simple.csprojResolveAssemblyReference.cache
+C:\Users\Pakistan\source\repos\simple\simple\obj\Debug\simple.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan\source\repos\simple\simple\obj\Debug\simple.exe
+C:\Users\Pakistan\source\repos\simple\simple\obj\Debug\simple.pdb

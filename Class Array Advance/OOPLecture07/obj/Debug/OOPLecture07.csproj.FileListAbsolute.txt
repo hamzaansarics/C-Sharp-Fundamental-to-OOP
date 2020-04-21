@@ -1,0 +1,7 @@
+C:\Users\conce\OneDrive\Desktop\Data\DotNET_Batch8\OOPLecture07\OOPLecture07\bin\Debug\OOPLecture07.exe.config
+C:\Users\conce\OneDrive\Desktop\Data\DotNET_Batch8\OOPLecture07\OOPLecture07\bin\Debug\OOPLecture07.exe
+C:\Users\conce\OneDrive\Desktop\Data\DotNET_Batch8\OOPLecture07\OOPLecture07\bin\Debug\OOPLecture07.pdb
+C:\Users\conce\OneDrive\Desktop\Data\DotNET_Batch8\OOPLecture07\OOPLecture07\obj\Debug\OOPLecture07.csprojResolveAssemblyReference.cache
+C:\Users\conce\OneDrive\Desktop\Data\DotNET_Batch8\OOPLecture07\OOPLecture07\obj\Debug\OOPLecture07.csproj.CoreCompileInputs.cache
+C:\Users\conce\OneDrive\Desktop\Data\DotNET_Batch8\OOPLecture07\OOPLecture07\obj\Debug\OOPLecture07.exe
+C:\Users\conce\OneDrive\Desktop\Data\DotNET_Batch8\OOPLecture07\OOPLecture07\obj\Debug\OOPLecture07.pdb

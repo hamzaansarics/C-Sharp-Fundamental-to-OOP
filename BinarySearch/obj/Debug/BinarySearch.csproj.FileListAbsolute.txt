@@ -1,0 +1,14 @@
+C:\Users\HaM-Za\source\repos\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\HaM-Za\source\repos\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\HaM-Za\source\repos\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\HaM-Za\source\repos\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\HaM-Za\source\repos\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\HaM-Za\source\repos\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\HaM-Za\source\repos\BinarySearch\obj\Debug\BinarySearch.pdb
+G:\Practice Program\4#\BinarySearch\bin\Debug\BinarySearch.exe.config
+G:\Practice Program\4#\BinarySearch\bin\Debug\BinarySearch.exe
+G:\Practice Program\4#\BinarySearch\bin\Debug\BinarySearch.pdb
+G:\Practice Program\4#\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+G:\Practice Program\4#\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+G:\Practice Program\4#\BinarySearch\obj\Debug\BinarySearch.exe
+G:\Practice Program\4#\BinarySearch\obj\Debug\BinarySearch.pdb

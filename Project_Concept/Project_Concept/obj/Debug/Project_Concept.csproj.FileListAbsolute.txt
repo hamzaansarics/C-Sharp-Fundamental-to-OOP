@@ -1,0 +1,7 @@
+C:\Users\Pakistan\source\repos\Project_Concept\Project_Concept\bin\Debug\Project_Concept.exe.config
+C:\Users\Pakistan\source\repos\Project_Concept\Project_Concept\bin\Debug\Project_Concept.exe
+C:\Users\Pakistan\source\repos\Project_Concept\Project_Concept\bin\Debug\Project_Concept.pdb
+C:\Users\Pakistan\source\repos\Project_Concept\Project_Concept\obj\Debug\Project_Concept.csprojResolveAssemblyReference.cache
+C:\Users\Pakistan\source\repos\Project_Concept\Project_Concept\obj\Debug\Project_Concept.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan\source\repos\Project_Concept\Project_Concept\obj\Debug\Project_Concept.exe
+C:\Users\Pakistan\source\repos\Project_Concept\Project_Concept\obj\Debug\Project_Concept.pdb

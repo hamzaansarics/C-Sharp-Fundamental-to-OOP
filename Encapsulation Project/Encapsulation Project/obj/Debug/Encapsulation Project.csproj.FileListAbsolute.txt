@@ -1,0 +1,14 @@
+C:\Users\Pakistan\source\repos\Encapsulation Project\Encapsulation Project\bin\Debug\Encapsulation Project.exe.config
+C:\Users\Pakistan\source\repos\Encapsulation Project\Encapsulation Project\bin\Debug\Encapsulation Project.exe
+C:\Users\Pakistan\source\repos\Encapsulation Project\Encapsulation Project\bin\Debug\Encapsulation Project.pdb
+C:\Users\Pakistan\source\repos\Encapsulation Project\Encapsulation Project\obj\Debug\Encapsulation Project.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan\source\repos\Encapsulation Project\Encapsulation Project\obj\Debug\Encapsulation Project.exe
+C:\Users\Pakistan\source\repos\Encapsulation Project\Encapsulation Project\obj\Debug\Encapsulation Project.pdb
+C:\Users\Pakistan\source\repos\Encapsulation Project\Encapsulation Project\obj\Debug\Encapsulation Project.csprojResolveAssemblyReference.cache
+G:\Study\C#\Practice Program\3#\Encapsulation Project\Encapsulation Project\bin\Debug\Encapsulation Project.exe.config
+G:\Study\C#\Practice Program\3#\Encapsulation Project\Encapsulation Project\bin\Debug\Encapsulation Project.exe
+G:\Study\C#\Practice Program\3#\Encapsulation Project\Encapsulation Project\bin\Debug\Encapsulation Project.pdb
+G:\Study\C#\Practice Program\3#\Encapsulation Project\Encapsulation Project\obj\Debug\Encapsulation Project.csprojAssemblyReference.cache
+G:\Study\C#\Practice Program\3#\Encapsulation Project\Encapsulation Project\obj\Debug\Encapsulation Project.csproj.CoreCompileInputs.cache
+G:\Study\C#\Practice Program\3#\Encapsulation Project\Encapsulation Project\obj\Debug\Encapsulation Project.exe
+G:\Study\C#\Practice Program\3#\Encapsulation Project\Encapsulation Project\obj\Debug\Encapsulation Project.pdb

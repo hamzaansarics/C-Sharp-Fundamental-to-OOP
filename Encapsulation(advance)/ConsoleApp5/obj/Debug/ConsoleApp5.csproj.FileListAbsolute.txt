@@ -1,0 +1,21 @@
+C:\Users\Pakistan\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Pakistan\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Pakistan\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Pakistan\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\Pakistan\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Pakistan\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+G:\Practice Program\3#\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+G:\Practice Program\3#\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+G:\Practice Program\3#\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+G:\Practice Program\3#\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+G:\Practice Program\3#\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+G:\Practice Program\3#\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+G:\Practice Program\3#\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+G:\Study\C#\Practice Program\3#\Encapsulation(advance)\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+G:\Study\C#\Practice Program\3#\Encapsulation(advance)\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+G:\Study\C#\Practice Program\3#\Encapsulation(advance)\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+G:\Study\C#\Practice Program\3#\Encapsulation(advance)\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+G:\Study\C#\Practice Program\3#\Encapsulation(advance)\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+G:\Study\C#\Practice Program\3#\Encapsulation(advance)\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+G:\Study\C#\Practice Program\3#\Encapsulation(advance)\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

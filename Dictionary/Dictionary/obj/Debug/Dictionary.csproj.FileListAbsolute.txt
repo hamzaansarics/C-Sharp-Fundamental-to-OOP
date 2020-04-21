@@ -1,0 +1,14 @@
+C:\Users\HaM-Za\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\HaM-Za\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\HaM-Za\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\HaM-Za\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\HaM-Za\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\HaM-Za\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\HaM-Za\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+G:\My Coded Program\2#\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+G:\My Coded Program\2#\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+G:\My Coded Program\2#\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+G:\My Coded Program\2#\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+G:\My Coded Program\2#\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+G:\My Coded Program\2#\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+G:\My Coded Program\2#\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

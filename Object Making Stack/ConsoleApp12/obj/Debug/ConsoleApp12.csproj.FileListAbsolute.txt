@@ -1,0 +1,14 @@
+C:\Users\Ansari\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\Ansari\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\Ansari\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\Ansari\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csprojResolveAssemblyReference.cache
+C:\Users\Ansari\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Ansari\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\Ansari\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
+G:\Practice Program\5#\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+G:\Practice Program\5#\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+G:\Practice Program\5#\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+G:\Practice Program\5#\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csprojResolveAssemblyReference.cache
+G:\Practice Program\5#\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+G:\Practice Program\5#\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+G:\Practice Program\5#\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb

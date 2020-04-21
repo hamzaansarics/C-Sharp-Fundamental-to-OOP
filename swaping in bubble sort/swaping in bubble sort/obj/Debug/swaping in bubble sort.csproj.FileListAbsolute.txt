@@ -1,0 +1,7 @@
+C:\Users\Pakistan\source\repos\swaping in bubble sort\swaping in bubble sort\bin\Debug\swaping in bubble sort.exe.config
+C:\Users\Pakistan\source\repos\swaping in bubble sort\swaping in bubble sort\bin\Debug\swaping in bubble sort.exe
+C:\Users\Pakistan\source\repos\swaping in bubble sort\swaping in bubble sort\bin\Debug\swaping in bubble sort.pdb
+C:\Users\Pakistan\source\repos\swaping in bubble sort\swaping in bubble sort\obj\Debug\swaping in bubble sort.csprojResolveAssemblyReference.cache
+C:\Users\Pakistan\source\repos\swaping in bubble sort\swaping in bubble sort\obj\Debug\swaping in bubble sort.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan\source\repos\swaping in bubble sort\swaping in bubble sort\obj\Debug\swaping in bubble sort.exe
+C:\Users\Pakistan\source\repos\swaping in bubble sort\swaping in bubble sort\obj\Debug\swaping in bubble sort.pdb

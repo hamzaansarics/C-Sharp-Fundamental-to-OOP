@@ -1,0 +1,25 @@
+C:\Users\Mr. Ali Ahsan\Desktop\CSharpLecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Mr. Ali Ahsan\Desktop\CSharpLecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Mr. Ali Ahsan\Desktop\CSharpLecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Mr. Ali Ahsan\Desktop\CSharpLecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Mr. Ali Ahsan\Desktop\CSharpLecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Ali Ahsan\Desktop\CSharpLecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Mr. Ali Ahsan\Desktop\CSharpLecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\CSharpLecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\CSharpLecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\CSharpLecture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\CSharpLecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+G:\CSharpLecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\CSharpLecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\CSharpLecture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\Study\C#\concepts\Making Stack Self\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

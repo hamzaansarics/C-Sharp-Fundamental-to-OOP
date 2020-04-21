@@ -1,0 +1,14 @@
+C:\Users\conce\OneDrive\Desktop\DotNET_Batch8\OOPLecture03\OOPLecture03\bin\Debug\OOPLecture03.exe.config
+C:\Users\conce\OneDrive\Desktop\DotNET_Batch8\OOPLecture03\OOPLecture03\bin\Debug\OOPLecture03.exe
+C:\Users\conce\OneDrive\Desktop\DotNET_Batch8\OOPLecture03\OOPLecture03\bin\Debug\OOPLecture03.pdb
+C:\Users\conce\OneDrive\Desktop\DotNET_Batch8\OOPLecture03\OOPLecture03\obj\Debug\OOPLecture03.csprojResolveAssemblyReference.cache
+C:\Users\conce\OneDrive\Desktop\DotNET_Batch8\OOPLecture03\OOPLecture03\obj\Debug\OOPLecture03.csproj.CoreCompileInputs.cache
+C:\Users\conce\OneDrive\Desktop\DotNET_Batch8\OOPLecture03\OOPLecture03\obj\Debug\OOPLecture03.exe
+C:\Users\conce\OneDrive\Desktop\DotNET_Batch8\OOPLecture03\OOPLecture03\obj\Debug\OOPLecture03.pdb
+G:\OOPLecture03\OOPLecture03\bin\Debug\OOPLecture03.exe.config
+G:\OOPLecture03\OOPLecture03\bin\Debug\OOPLecture03.exe
+G:\OOPLecture03\OOPLecture03\bin\Debug\OOPLecture03.pdb
+G:\OOPLecture03\OOPLecture03\obj\Debug\OOPLecture03.csprojResolveAssemblyReference.cache
+G:\OOPLecture03\OOPLecture03\obj\Debug\OOPLecture03.csproj.CoreCompileInputs.cache
+G:\OOPLecture03\OOPLecture03\obj\Debug\OOPLecture03.exe
+G:\OOPLecture03\OOPLecture03\obj\Debug\OOPLecture03.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pakistan\source\repos\auto implement practise\auto implement practise\bin\Debug\auto implement practise.exe.config
+C:\Users\Pakistan\source\repos\auto implement practise\auto implement practise\bin\Debug\auto implement practise.exe
+C:\Users\Pakistan\source\repos\auto implement practise\auto implement practise\bin\Debug\auto implement practise.pdb
+C:\Users\Pakistan\source\repos\auto implement practise\auto implement practise\obj\Debug\auto implement practise.csprojResolveAssemblyReference.cache
+C:\Users\Pakistan\source\repos\auto implement practise\auto implement practise\obj\Debug\auto implement practise.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan\source\repos\auto implement practise\auto implement practise\obj\Debug\auto implement practise.exe
+C:\Users\Pakistan\source\repos\auto implement practise\auto implement practise\obj\Debug\auto implement practise.pdb

@@ -1,0 +1,7 @@
+c:\users\pakistan\source\repos\practice in encapsulation\practice in encapsulation\bin\Debug\practice in encapsulation.exe.config
+c:\users\pakistan\source\repos\practice in encapsulation\practice in encapsulation\bin\Debug\practice in encapsulation.exe
+c:\users\pakistan\source\repos\practice in encapsulation\practice in encapsulation\bin\Debug\practice in encapsulation.pdb
+c:\users\pakistan\source\repos\practice in encapsulation\practice in encapsulation\obj\Debug\practice in encapsulation.csprojResolveAssemblyReference.cache
+c:\users\pakistan\source\repos\practice in encapsulation\practice in encapsulation\obj\Debug\practice in encapsulation.csproj.CoreCompileInputs.cache
+c:\users\pakistan\source\repos\practice in encapsulation\practice in encapsulation\obj\Debug\practice in encapsulation.exe
+c:\users\pakistan\source\repos\practice in encapsulation\practice in encapsulation\obj\Debug\practice in encapsulation.pdb

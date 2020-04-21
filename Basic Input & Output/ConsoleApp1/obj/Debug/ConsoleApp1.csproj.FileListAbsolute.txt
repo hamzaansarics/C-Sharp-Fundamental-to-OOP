@@ -1,0 +1,7 @@
+E:\Concepts\DotNetCoreBatch8\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Concepts\DotNetCoreBatch8\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Concepts\DotNetCoreBatch8\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Concepts\DotNetCoreBatch8\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Concepts\DotNetCoreBatch8\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Concepts\DotNetCoreBatch8\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Concepts\DotNetCoreBatch8\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

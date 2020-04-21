@@ -1,0 +1,28 @@
+E:\c#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojResolveAssemblyReference.cache
+E:\c#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+E:\c#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+E:\c#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+E:\c#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+E:\c#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+E:\c#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+G:\My Coded Program(C#)\1#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+G:\My Coded Program(C#)\1#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+G:\My Coded Program(C#)\1#\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+G:\My Coded Program(C#)\1#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojResolveAssemblyReference.cache
+G:\My Coded Program(C#)\1#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+G:\My Coded Program(C#)\1#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+G:\My Coded Program(C#)\1#\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+F:\Study\Practice Program\1#\Zeeshan Shoping Mall\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+F:\Study\Practice Program\1#\Zeeshan Shoping Mall\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+F:\Study\Practice Program\1#\Zeeshan Shoping Mall\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+F:\Study\Practice Program\1#\Zeeshan Shoping Mall\ConsoleApp13\obj\Debug\ConsoleApp13.csprojAssemblyReference.cache
+F:\Study\Practice Program\1#\Zeeshan Shoping Mall\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+F:\Study\Practice Program\1#\Zeeshan Shoping Mall\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+F:\Study\Practice Program\1#\Zeeshan Shoping Mall\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
+C:\Users\Hamza\Desktop\Farhan Shopping Mall\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\Hamza\Desktop\Farhan Shopping Mall\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\Hamza\Desktop\Farhan Shopping Mall\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\Hamza\Desktop\Farhan Shopping Mall\ConsoleApp13\obj\Debug\ConsoleApp13.csprojAssemblyReference.cache
+C:\Users\Hamza\Desktop\Farhan Shopping Mall\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Farhan Shopping Mall\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\Hamza\Desktop\Farhan Shopping Mall\ConsoleApp13\obj\Debug\ConsoleApp13.pdb

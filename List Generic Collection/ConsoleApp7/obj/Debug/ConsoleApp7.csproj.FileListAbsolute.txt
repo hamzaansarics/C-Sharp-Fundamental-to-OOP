@@ -1,0 +1,14 @@
+E:\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+E:\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+E:\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+E:\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+E:\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+E:\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+E:\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+G:\C#\concepts\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+G:\C#\concepts\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+G:\C#\concepts\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+G:\C#\concepts\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+G:\C#\concepts\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+G:\C#\concepts\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+G:\C#\concepts\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

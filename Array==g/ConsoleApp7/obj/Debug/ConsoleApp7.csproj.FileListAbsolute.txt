@@ -1,0 +1,14 @@
+c:\users\ham-za\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+c:\users\ham-za\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+c:\users\ham-za\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+c:\users\ham-za\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+c:\users\ham-za\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+c:\users\ham-za\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+c:\users\ham-za\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+G:\Practice Program\2#\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+G:\Practice Program\2#\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+G:\Practice Program\2#\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+G:\Practice Program\2#\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+G:\Practice Program\2#\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+G:\Practice Program\2#\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+G:\Practice Program\2#\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

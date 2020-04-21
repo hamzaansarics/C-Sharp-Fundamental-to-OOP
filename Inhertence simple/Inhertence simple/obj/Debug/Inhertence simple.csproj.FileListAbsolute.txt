@@ -1,0 +1,14 @@
+C:\Users\Pakistan\source\repos\Inhertence simple\Inhertence simple\bin\Debug\Inhertence simple.exe.config
+C:\Users\Pakistan\source\repos\Inhertence simple\Inhertence simple\bin\Debug\Inhertence simple.exe
+C:\Users\Pakistan\source\repos\Inhertence simple\Inhertence simple\bin\Debug\Inhertence simple.pdb
+C:\Users\Pakistan\source\repos\Inhertence simple\Inhertence simple\obj\Debug\Inhertence simple.csprojResolveAssemblyReference.cache
+C:\Users\Pakistan\source\repos\Inhertence simple\Inhertence simple\obj\Debug\Inhertence simple.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan\source\repos\Inhertence simple\Inhertence simple\obj\Debug\Inhertence simple.exe
+C:\Users\Pakistan\source\repos\Inhertence simple\Inhertence simple\obj\Debug\Inhertence simple.pdb
+G:\Study\C#\Practice Program\3#\Inhertence simple\Inhertence simple\bin\Debug\Inhertence simple.exe.config
+G:\Study\C#\Practice Program\3#\Inhertence simple\Inhertence simple\bin\Debug\Inhertence simple.exe
+G:\Study\C#\Practice Program\3#\Inhertence simple\Inhertence simple\bin\Debug\Inhertence simple.pdb
+G:\Study\C#\Practice Program\3#\Inhertence simple\Inhertence simple\obj\Debug\Inhertence simple.csprojAssemblyReference.cache
+G:\Study\C#\Practice Program\3#\Inhertence simple\Inhertence simple\obj\Debug\Inhertence simple.csproj.CoreCompileInputs.cache
+G:\Study\C#\Practice Program\3#\Inhertence simple\Inhertence simple\obj\Debug\Inhertence simple.exe
+G:\Study\C#\Practice Program\3#\Inhertence simple\Inhertence simple\obj\Debug\Inhertence simple.pdb
